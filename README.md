@@ -1,2 +1,2 @@
 # practice_python
-a repo for storing Python practise problems
+- a repo for storing Python practise problems
